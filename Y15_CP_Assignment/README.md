@@ -21,7 +21,7 @@ The main program has some helper functions to take user input. Then you need to 
 
 Although these functions are specific to a registration scenario, you should identify that they all use a set of generic checks, like checking range, length and type of input. The declarations for these are there in the _utilities.h_ file, which you can include in other programs and use its member functions there.
 
-But before being able to use them, you have to define what each function does in utilities.c file. So, the main program includes validations.h file, which in turn includes utilities.h file, thereby enabling you to use these functions. 
+But before being able to use them, you have to define what each function does in _utilities.c_ file. So, the main program includes _validations.h_ file, which in turn includes _utilities.h_ file, thereby enabling you to use these functions. 
 
 ## Key Takeaways
 Observe the code structure carefully to learn the importance of proper indentation, appropriate variable names and readable code. Try to imbibe them as habits to reflect in whatever code you write from now on.
