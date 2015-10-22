@@ -18,9 +18,9 @@ Before moving further, let me tell you that the platform you are reading this on
 The main program has some helper functions to take user input. Then you need to identify the required validation functions and their signatures. This is done in the validations.h file. The definitions of these functions go into validations.c file. 
 
 Although these functions are specific to a registration scenario, you should identify that they all use a set of generic checks, like checking range, length and type of input. The declarations for these are there in the utilities.h file, 
-which you can `#include` in other programs and use its member functions there.
+which you can include in other programs and use its member functions there.
 
-But before being able to use them, you have to define what each function does in utilities.c file. So, the main program `#include`s validations.h file, which in turn `#include`s utilities.h file, thereby enabling you to use these functions. 
+But before being able to use them, you have to define what each function does in utilities.c file. So, the main program includes validations.h file, which in turn includes utilities.h file, thereby enabling you to use these functions. 
 
 ## Key Takeaways
 Observe the code structure carefully to learn the importance of proper indentation, appropriate variable names and readable code. Try to imbibe them as habits to reflect in whatever code you write from now on.
