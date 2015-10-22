@@ -1,6 +1,6 @@
 # How You Should Have Approached Your Computer Programming Assignment
 
-# Hello Y15!
+## Hello Y15!
 
 Let's start on the premise that the assignment given to you, which I guess became a _'nightmare'_ for you people, was actually _'awesome'_. Their were a hell lot of things for you to learn from this assignment. 
 
@@ -17,6 +17,7 @@ Before moving further, let me tell you that the platform you are reading this on
 ## Code structure
 The main program has some helper functions to take user input. Then you need to identify the required validation functions and their signatures. This is done in the validations.h file. The definitions of these functions go into validations.c file. These functions are specific to a registration scenario. But you should identify that they all use a set of generic checks, like checking range, length and type of input. The declarations for these are there in the utilities.h file, which you can #include in other programs and use its member functions there. But before being able to use them, you have to define what each function does in utilities.c file. So, the main program #includes validations.h file, which in turn #includes utilities.h file, thereby enabling you to use these functions. 
 
+## Key Takeaways
 Observe the code structure carefully to learn the importance of proper indentation, appropriate variable names and readable code. Try to imbibe them as habits to reflect in whatever code you write from now on.
 
-That's it from my side. Hope you have gained a thing or two from this post. Happy programming! :)
+That's it from my side. Hope you have gained a thing or two from this post. **Happy programming!** :)
