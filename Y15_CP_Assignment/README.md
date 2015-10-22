@@ -12,7 +12,9 @@ The assignment focusses on introducing you to the importance of user input valid
 And to top that, you were supposed to make your own library consisting of a generic set of input validation functions, which you could use in other programs as well. That was again a good idea.
 
 ## About this platform
-Before moving further, let me tell you that the platform you are reading this on, **GitHub**, is one of the places where programmers and developers share their work for the rest of the world to use/improve/modify as required. Moreover, it helps them keep track of the progress of their projects, collaborate with others, and much more. Such a provision is called a **Version Control System**(VCS). I would suggest you to look VCS up and use this platform to showcase and keep track of all your programming assignments and future work.
+Before moving further, let me tell you that the platform you are reading this on, **GitHub**, is one of the places where programmers and developers share their work for the rest of the world to use/improve/modify as required. Moreover, it helps them keep track of the progress of their projects, collaborate with others, and much more. 
+
+Such a provision is called a **Version Control System**(VCS). I would suggest you to look VCS up and use this platform to showcase and keep track of all your programming assignments and future work.
 
 ## Code structure
 The main program has some helper functions to take user input. Then you need to identify the required validation functions and their signatures. This is done in the validations.h file. The definitions of these functions go into validations.c file. 
