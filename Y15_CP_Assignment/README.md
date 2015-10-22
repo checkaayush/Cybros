@@ -17,10 +17,9 @@ Before moving further, let me tell you that the platform you are reading this on
 Such a provision is called a **Version Control System**(VCS). I would suggest you to look VCS up and use this platform to showcase and keep track of all your programming assignments and future work.
 
 ## Code structure
-The main program has some helper functions to take user input. Then you need to identify the required validation functions and their signatures. This is done in the validations.h file. The definitions of these functions go into validations.c file. 
+The main program has some helper functions to take user input. Then you need to identify the required validation functions and their signatures. This is done in the _validations.h_ file. The definitions of these functions go into _validations.c_ file. 
 
-Although these functions are specific to a registration scenario, you should identify that they all use a set of generic checks, like checking range, length and type of input. The declarations for these are there in the utilities.h file, 
-which you can include in other programs and use its member functions there.
+Although these functions are specific to a registration scenario, you should identify that they all use a set of generic checks, like checking range, length and type of input. The declarations for these are there in the _utilities.h_ file, which you can include in other programs and use its member functions there.
 
 But before being able to use them, you have to define what each function does in utilities.c file. So, the main program includes validations.h file, which in turn includes utilities.h file, thereby enabling you to use these functions. 
 
