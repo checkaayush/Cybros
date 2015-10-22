@@ -2,7 +2,7 @@
 
 ## Hello Y15!
 
-Let's start on the premise that the assignment given to you, which I guess became a _'nightmare'_ for you people, was actually _'awesome'_. Their were a hell lot of things for you to learn from this assignment. 
+Let's start on the premise that the assignment given to you, which I guess became a _nightmare_ for you people, was actually _awesome_. Their were a hell lot of things for you to learn from this assignment. 
 
 Here are some insights from my side, which will give you some perspective alongside a possible approach.
 
