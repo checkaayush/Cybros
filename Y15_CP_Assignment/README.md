@@ -23,6 +23,14 @@ Although these functions are specific to a registration scenario, you should ide
 
 But before being able to use them, you have to define what each function does in _utilities.c_ file. So, the main program includes _validations.h_ file, which in turn includes _utilities.h_ file, thereby enabling you to use these functions. 
 
+## References
+
+The approach mentioned in this post is far from being comprehensive in defining how static libraries in C are created. It's meant to be a starting point for you to be able to analyse and learn the approach to solving such problems. Here are some links to dive further into the topic:
+
+1. http://www.thegeekstuff.com/2011/10/c-program-to-an-executable/
+2. http://www.cs.swarthmore.edu/~newhall/unixhelp/howto_C_libraries.html
+
+
 ## Key Takeaways
 Observe the code structure carefully to learn the importance of proper indentation, appropriate variable names and readable code. Try to imbibe them as habits to reflect in whatever code you write from now on.
 
