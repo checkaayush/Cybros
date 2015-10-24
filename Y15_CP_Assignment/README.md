@@ -25,7 +25,7 @@ But before being able to use them, you have to define what each function does in
 
 ## References
 
-The approach mentioned in this post is far from being comprehensive in defining how static libraries in C are created. It's meant to be a starting point for you to be able to analyse and learn the approach to solving such problems. Here are some links to dive further into the topic:
+The approach mentioned in this post is far from being comprehensive in defining how static libraries in C are created. It's meant to be a starting point for you to be able to analyse and learn the approach for solving such problems. Here are some links to dive further into the topic:
 
 1. http://www.thegeekstuff.com/2011/10/c-program-to-an-executable/
 2. http://www.cs.swarthmore.edu/~newhall/unixhelp/howto_C_libraries.html
