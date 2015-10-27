@@ -1,2 +1,2 @@
 # Cybros
-This repository will have most of my contribution to the the Computer Science club of our college, Cybros
+My contributions to the college Computer Science club
