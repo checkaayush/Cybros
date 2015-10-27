@@ -1,0 +1,76 @@
+
+  <command 1>|<command 2>     ---      
+
+  -wc anagram.c -tells lines,words and characters.
+
+  mkdir - make directory.
+
+  ls -list.
+
+   1      1     10    - tells that there are 1 no of lines,another 1 tells about no of characters and 10 tells about no of characters.
+
+  ..                parent directory
+  .                 present directory
+
+  clear 
+  cat anagram.c (file name.c)   -  presents the content of the file.
+
+  cal 1900 - presets the calender of whole year.
+
+  date   - list down present sytem time and date.
+
+  diff -  (online judge is dependent on this) , can be used to check whether cheating is done in the exam or not.the files are same if the output is null.
+
+  echo - print whatever we it to print.
+
+  > cybros.txt  - hello world beecomes the prt of cybros.txt (can be checked with the help of cat)
+
+  >> - append the previous content,means that just expand the old content,add the new content in that.
+
+  touch  abhinandan.pdf  - makes a file fasty instead of going to ant editor and save there,can be checkesd by just typing 'ls'
+
+  ls filename.c -la   = used to see when the file was access last time.
+
+  firefox &  = can be opened using terminal .
+
+  (EVERYTHING IN LINUX CAN BE OPENED USING THE TERMINALS,IT'S NOT SO EASY IN WINDOWS)
+
+  cp a.pdf cybros/b.pdf  = copies file from a to b,file content remain.
+
+  (cp = copy)
+
+  mv b.c  .
+
+  (mv = move)
+
+  rm -r cybros  = recursively delete everything inside the folder and finally delete the folder itself. 
+
+  top = task manager,tells about everything running currently in hte program.
+
+  kill -9 (process id) = kills everything.
+
+  ps = tells about the present files ran through the terminal (small version of top)
+
+  xdg - open mooshak - 1.5.2\(1\).tgz = xdg - open filaname.extnsion = opens this file with the applicatin which our extension supports
+
+  d stands for a directory.
+  - stands for a sipmle fle.
+
+  out of remaining 9 more characters ,just them in the grp of 3.
+  first 3 tell about terms, rwx = read,write,eexecute.
+  second 3 characters represents the grp, r-r = only the grp memberscab read it.
+  third 3 characters can be seen by anyone, 'r-r' or 'r--' 
+  
+  pwd = present working directory.
+
+  echo $pwd = prints environment variable.shows the complete address of any file at that existing point or place.
+
+  echo $home = same as above
+
+  echo $path
+
+  areas = any command can be renamed,used to simplify names of files.
+
+  i = to change the terminal from command to insert.
+
+  esc:wq = to change the terminal from insert to command.
